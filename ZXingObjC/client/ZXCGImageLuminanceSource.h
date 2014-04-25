@@ -32,7 +32,7 @@
                                 top:(size_t)top
                               width:(size_t)width
                              height:(size_t)height CF_RETURNS_RETAINED;
-
+//订单
 - (id)initWithZXImage:(ZXImage *)image
                  left:(size_t)left
                   top:(size_t)top
